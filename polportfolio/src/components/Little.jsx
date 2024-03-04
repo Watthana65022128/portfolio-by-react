@@ -32,7 +32,7 @@ function Little() {
                 <h1>personal record</h1>
                 <div className='section-flex'>
                     <div className="section-info">
-                        <img src="https://scontent.fbkk22-4.fna.fbcdn.net/v/t39.30808-1/325788135_745837353631982_4204175813333790747_n.jpg?stp=dst-jpg_p160x160&_nc_cat=111&ccb=1-7&_nc_sid=5740b7&_nc_eui2=AeFl66KyOqVJKALFlI8GTs2Smul-DYYnBfWa6X4NhicF9evHTaYh_XtwZYI3BaY9IibxQ9FsNKf1C20fzeZNGQli&_nc_ohc=xumPINE9ggQAX-JEIzM&_nc_ht=scontent.fbkk22-4.fna&oh=00_AfD2e_6mvZXAoEaoYBNH7fLNW7-Tb8LfT8U1c_bmoXXHaQ&oe=65EB785B" alt="" />
+                        <img src="https://scontent.fbkk22-4.fna.fbcdn.net/v/t39.30808-6/325788135_745837353631982_4204175813333790747_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=efb6e6&_nc_eui2=AeFl66KyOqVJKALFlI8GTs2Smul-DYYnBfWa6X4NhicF9evHTaYh_XtwZYI3BaY9IibxQ9FsNKf1C20fzeZNGQli&_nc_ohc=xumPINE9ggQAX-JEIzM&_nc_zt=23&_nc_ht=scontent.fbkk22-4.fna&oh=00_AfB3pY2jTrCTBHu1fRkVVOPj-EqubjXnQ3YwJI3W-b-Eng&oe=65EA5D1D" alt="" />
                         <div className="text-info">
                             <h3>Introduce Yourself</h3>
                             <p>สวัสดีครับ <br />
