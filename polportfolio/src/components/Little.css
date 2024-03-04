@@ -6,7 +6,6 @@
 
 body {
     font-family: serif;
-    
 }
 
 .header-con {
@@ -26,7 +25,7 @@ body {
 }
 
 .aside-con {
-    max-width: 1200px;
+    max-width: 1440px;
     margin: 0 auto;
     display: flex;
 }
@@ -68,7 +67,7 @@ body {
 .section-con {
     margin: 0 auto;
     margin-top: 50px;
-    max-width: 1200px;
+    max-width: 1440px;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -121,7 +120,7 @@ body {
 }
 
 .mydrem {
-    max-width: 1200px;
+    max-width: 1440px;
     margin: 0 auto;
     display: flex;
     justify-content: center;
@@ -162,7 +161,7 @@ body {
 }
 
 .mylife {
-    max-width: 1200px;
+    max-width: 1440px;
     margin: 0 auto;
     margin-top: 100px;
     display: flex;
@@ -213,21 +212,16 @@ body {
     }
 }
 
-.grid-pro img {
-    width: 50px;
-    height: 50px;
-}
 .grid-img {
-    width: 1200px;
+    width: 1440px;
     margin: 0 auto;
 }
 
 .grid-con {
     display: grid;
-    max-width: 1200px;
     grid-template-columns: repeat(6, 1fr);
     column-gap: 10px;
-    padding: 40px 0;
+    padding: 40px 500px;
 
     & .grid-pro  {
         width: 100%;
@@ -250,9 +244,10 @@ body {
 }
 
 .footer-info {
-    max-width: 1200px;
+    max-width: 1440px;
     margin: 0 auto;
     display: flex;
     align-items: center;
     justify-content: center;
 }
+
