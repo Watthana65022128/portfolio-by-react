@@ -222,6 +222,8 @@ body {
     grid-template-columns: repeat(6, 1fr);
     column-gap: 10px;
     padding: 40px 500px;
+    margin-top: 1rem;
+    margin-left: 50px;
 
     & .grid-pro  {
         width: 100%;
