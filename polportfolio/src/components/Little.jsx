@@ -14,7 +14,7 @@ function Little() {
         <aside>
             <div className="aside-con">
                 <div className="aside-L">
-                    <img src="https://scontent.fbkk5-3.fna.fbcdn.net/v/t39.30808-6/325788135_745837353631982_4204175813333790747_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=efb6e6&_nc_eui2=AeFl66KyOqVJKALFlI8GTs2Smul-DYYnBfWa6X4NhicF9evHTaYh_XtwZYI3BaY9IibxQ9FsNKf1C20fzeZNGQli&_nc_ohc=SL3SOHnOBNIAX_viX1X&_nc_ht=scontent.fbkk5-3.fna&oh=00_AfCxj_OAcq89nkXOUPYxC8ql_FwDWKkIwXa64H2LWn9EDg&oe=65E079DD" alt="" />
+                    <img src="https://scontent.fbkk22-4.fna.fbcdn.net/v/t39.30808-1/325788135_745837353631982_4204175813333790747_n.jpg?stp=dst-jpg_p160x160&_nc_cat=111&ccb=1-7&_nc_sid=5740b7&_nc_eui2=AeFl66KyOqVJKALFlI8GTs2Smul-DYYnBfWa6X4NhicF9evHTaYh_XtwZYI3BaY9IibxQ9FsNKf1C20fzeZNGQli&_nc_ohc=xumPINE9ggQAX-JEIzM&_nc_ht=scontent.fbkk22-4.fna&oh=00_AfD2e_6mvZXAoEaoYBNH7fLNW7-Tb8LfT8U1c_bmoXXHaQ&oe=65EB785B" alt="" />
                 </div>
                 <div className="aside-R">
                     <div className="aside-R-info">
@@ -32,7 +32,7 @@ function Little() {
                 <h1>personal record</h1>
                 <div className='section-flex'>
                     <div className="section-info">
-                        <img src="https://scontent.fbkk5-3.fna.fbcdn.net/v/t39.30808-6/252690558_1878989992306986_3939601552322079205_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=dd5e9f&_nc_eui2=AeGka1geLKto_fNZBAhZykD5wXJMwD8bsizBckzAPxuyLG2kFQG7SZKnj3XQVr-XjqQf1FOZDUL350qqdCz27UXT&_nc_ohc=pW8NVxK4cTAAX9GbbId&_nc_ht=scontent.fbkk5-3.fna&oh=00_AfAzpuwBzgWPVgv69pKUPsVn9A1v7rU0cs6BsOwN0OGgVQ&oe=65E0ABF1" alt="" />
+                        <img src="https://scontent.fbkk22-4.fna.fbcdn.net/v/t39.30808-1/325788135_745837353631982_4204175813333790747_n.jpg?stp=dst-jpg_p160x160&_nc_cat=111&ccb=1-7&_nc_sid=5740b7&_nc_eui2=AeFl66KyOqVJKALFlI8GTs2Smul-DYYnBfWa6X4NhicF9evHTaYh_XtwZYI3BaY9IibxQ9FsNKf1C20fzeZNGQli&_nc_ohc=xumPINE9ggQAX-JEIzM&_nc_ht=scontent.fbkk22-4.fna&oh=00_AfD2e_6mvZXAoEaoYBNH7fLNW7-Tb8LfT8U1c_bmoXXHaQ&oe=65EB785B" alt="" />
                         <div className="text-info">
                             <h3>Introduce Yourself</h3>
                             <p>สวัสดีครับ <br />
