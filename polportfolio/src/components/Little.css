@@ -219,6 +219,7 @@ body {
 
 .grid-con {
     display: grid;
+    max-width: 1240px;
     grid-template-columns: repeat(6, 1fr);
     column-gap: 10px;
     padding: 40px 0;
