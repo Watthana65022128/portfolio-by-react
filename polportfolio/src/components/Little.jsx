@@ -14,11 +14,10 @@ function Little() {
         <aside>
             <div className="aside-con">
                 <div className="aside-L">
-                    <img src="https://scontent.fbkk22-4.fna.fbcdn.net/v/t39.30808-6/325788135_745837353631982_4204175813333790747_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=efb6e6&_nc_eui2=AeFl66KyOqVJKALFlI8GTs2Smul-DYYnBfWa6X4NhicF9evHTaYh_XtwZYI3BaY9IibxQ9FsNKf1C20fzeZNGQli&_nc_ohc=xumPINE9ggQAX-JEIzM&_nc_zt=23&_nc_ht=scontent.fbkk22-4.fna&oh=00_AfB3pY2jTrCTBHu1fRkVVOPj-EqubjXnQ3YwJI3W-b-Eng&oe=65EA5D1D" alt="" />
+                    <img src="https://scontent.fcnx4-1.fna.fbcdn.net/v/t39.30808-6/488681972_2830213213851321_7152583185313957284_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=127cfc&_nc_eui2=AeG_ONnNyY3eZp6QIzo4MaRSt1KU0VoDV823UpTRWgNXzWbYZy4rvWnYL0fYgS3SjfPrbwmB8bToMT3ygAPoaLHn&_nc_ohc=X5EzalwvG5YQ7kNvwHpSaVw&_nc_oc=AdnpoGSwKFfKnBEo8ya9VSshNC9GTy_yOXv3MMvOFmiLyLAmtiiJ4xaDtipw4hc6iQ0&_nc_zt=23&_nc_ht=scontent.fcnx4-1.fna&_nc_gid=jDOkSKJGNb7unAqh6hID7A&oh=00_AfUzTaIYl8NpK1VTZGA4QmMJhTXDcm78NY44lyJ3vTCN3w&oe=689609C7" alt="" />
                 </div>
                 <div className="aside-R">
                     <div className="aside-R-info">
-                        <h2>Have a Good Day</h2>
                         <img src="https://images.unsplash.com/photo-1628838972052-1b9bc1538878?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTR8fGZvbGxvd3xlbnwwfHwwfHx8MA%3D%3D" alt="" />
                         <p>ทุกคนต่างมีความฝัน ความสุข รอยยิ้ม <br />
                         เวลาคือทรัพยากรที่มีอย่างจำกัด ขอให้ทุกคนใช้เวลาที่มีอยู่ใช้เวลาอย่างมีความสุข</p>
@@ -32,7 +31,7 @@ function Little() {
                 <h1>personal record</h1>
                 <div className='section-flex'>
                     <div className="section-info">
-                        <img src="https://scontent.fbkk22-4.fna.fbcdn.net/v/t39.30808-6/325788135_745837353631982_4204175813333790747_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=efb6e6&_nc_eui2=AeFl66KyOqVJKALFlI8GTs2Smul-DYYnBfWa6X4NhicF9evHTaYh_XtwZYI3BaY9IibxQ9FsNKf1C20fzeZNGQli&_nc_ohc=xumPINE9ggQAX-JEIzM&_nc_zt=23&_nc_ht=scontent.fbkk22-4.fna&oh=00_AfB3pY2jTrCTBHu1fRkVVOPj-EqubjXnQ3YwJI3W-b-Eng&oe=65EA5D1D" alt="" />
+                        <img src="https://scontent.fcnx4-2.fna.fbcdn.net/v/t39.30808-6/485177334_2812581192281190_3797022330502556201_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=833d8c&_nc_eui2=AeE8XTzDY863UBwd8NikY_GVhC7m6T0tHhSELubpPS0eFG2pp9HBxvTDf0l8LT8394aX9JeRIQ9VU2DIAvdFbSvJ&_nc_ohc=bvjXL5YWepoQ7kNvwFk7k2z&_nc_oc=AdlLJ4Mdlx6N5S_bOZgFI6It740_HwTN2MfRPrIB8j0JgZKS0nMVlsV1Y_vsPCsQfIw&_nc_zt=23&_nc_ht=scontent.fcnx4-2.fna&_nc_gid=4s5h6LyCeNAmqUeIpOt6bA&oh=00_AfU8DQZggdbqFnAY5PBMXjdHJv0vjXkvOGnZYSuqBpBbag&oe=689611E9" alt="" />
                         <div className="text-info">
                             <h3>Introduce Yourself</h3>
                             <p>สวัสดีครับ <br />
